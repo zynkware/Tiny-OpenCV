@@ -1,6 +1,6 @@
 # Tiny-OpenCV
 
-A tiny version of [OpenCV](https://opencv.org).
+A tiny version of [OpenCV](https://opencv.org). AAR size: ~26 MB
 
 - tiny version of OpenCV **4.4.0**:
 	- armeabi-v7a: **3.1 MB** (original: 10.1 MB)
