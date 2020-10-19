@@ -14,7 +14,7 @@ In your app gradle:
 
     dependencies {
         ...
-        implementation 'com.github.zynkware:Tiny-OpenCV:4.4.0'
+        implementation 'com.github.zynkware:Tiny-OpenCV:4.4.0-4'
     }
 
 In your root gradle: 
