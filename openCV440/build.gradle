@@ -4,6 +4,13 @@ apply plugin: 'maven-publish'
 def openCVersionName = "4.4.0"
 def libraryVersionCode = 1
 
+repositories {
+    mavenCentral()
+    google()
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
